@@ -1,7 +1,7 @@
 import telebot
 
 bot = telebot.TeleBot('')
-#Место для токена
+#Token place
 
 @bot.message_handler(commands=["start"])
 def start(m, res=False):
