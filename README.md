@@ -1,1 +1,0 @@
-# T_bot_small
